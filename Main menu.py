@@ -11,3 +11,4 @@ mainmenu.add_command(label='Удалить запись')
 mainmenu.add_command(label='Выйти из программы')
 
 root.mainloop()
+ 
